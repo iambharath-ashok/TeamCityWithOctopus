@@ -41,10 +41,10 @@
 -	Add IIS Server or Machine with any of the flavors i.e windows, linux, mac, azure, kubernetes
 
 ###	Install Tentacle agent on Remote Machine or Target Machine
-	-	Listening Tentacle
-	-	Polling Tentacle
-	-	Enable the port for Listening
-	-	Add Octopus Thumbprint
+-	Listening Tentacle
+-	Polling Tentacle
+-	Enable the port for Listening
+-	Add Octopus Thumbprint
 	
 ###	Add Tentacle Agent on Octopus Deploy Server
 
